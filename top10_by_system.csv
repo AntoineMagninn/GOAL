@@ -1,0 +1,31 @@
+system,player,final_rating,rank
+tuned,Kevin De Bruyne,23.734262077755226,1
+tuned,Eden Hazard,18.706397245920677,2
+tuned,Harry Kane,17.08712586028758,3
+tuned,Mohamed Salah,17.03616604224078,4
+tuned,Christian Eriksen,16.08767597436257,5
+tuned,Leroy Sane,15.590409088192468,6
+tuned,Paul Pogba,14.477379277920006,7
+tuned,Jan Vertonghen,14.299807654888061,8
+tuned,Harry Maguire,13.935246088243213,9
+tuned,Sergio Aguero,13.889334175530715,10
+human,Kevin De Bruyne,23.25999210780117,1
+human,Mohamed Salah,16.965888125249084,2
+human,David Silva,16.10215917637314,3
+human,Leroy Sane,16.029852273770544,4
+human,Raheem Sterling,15.497754210330832,5
+human,Eden Hazard,15.272883298109262,6
+human,Jiri Pavlenka,14.866456606751978,7
+human,Sergio Aguero,14.435519933015964,8
+human,Wilfried Zaha,14.162392104082349,9
+human,Koen Casteels,13.912382340837144,10
+ai,Kevin De Bruyne,20.512307256382314,1
+ai,Eden Hazard,20.42217689333919,2
+ai,Harry Kane,17.263934489257366,3
+ai,Mohamed Salah,15.355263046381173,4
+ai,Sergio Aguero,15.201336184123356,5
+ai,Leroy Sane,14.846658246218723,6
+ai,Daniel Caligiuri,14.262670801488937,7
+ai,Christian Eriksen,13.391606759143558,8
+ai,Alexis Sanchez,13.366497467637156,9
+ai,Roberto Firmino,13.23596211757233,10
