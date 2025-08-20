@@ -1,14 +1,14 @@
 system,player,final_rating,rank
-tuned,Kevin De Bruyne,23.734262077755226,1
-tuned,Eden Hazard,18.706397245920677,2
-tuned,Harry Kane,17.08712586028758,3
-tuned,Mohamed Salah,17.03616604224078,4
-tuned,Christian Eriksen,16.08767597436257,5
-tuned,Leroy Sane,15.590409088192468,6
-tuned,Paul Pogba,14.477379277920006,7
-tuned,Jan Vertonghen,14.299807654888061,8
-tuned,Harry Maguire,13.935246088243213,9
-tuned,Sergio Aguero,13.889334175530715,10
+tuned,Kevin De Bruyne,23.210702951372014,1
+tuned,Mohamed Salah,17.081519832597024,2
+tuned,Eden Hazard,16.16283627223795,3
+tuned,Leroy Sane,15.611191180300683,4
+tuned,Harry Kane,15.226982089605826,5
+tuned,Christian Eriksen,15.191591722479888,6
+tuned,David Silva,14.562230692302528,7
+tuned,Paul Pogba,14.512436728506277,8
+tuned,Sergio Aguero,14.030020304725866,9
+tuned,Naldo,13.950672491534666,10
 human,Kevin De Bruyne,23.25999210780117,1
 human,Mohamed Salah,16.965888125249084,2
 human,David Silva,16.10215917637314,3
